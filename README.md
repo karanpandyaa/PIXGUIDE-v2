@@ -48,8 +48,8 @@ These are few examples of the animations that we made for various commands on LE
 
 **Hardware**:
 
-![](https://imgur.com/6odNtt3)
-![](https://imgur.com/AcNYOoe)
+![](https://imgur.com/6odNtt3.png)
+![](https://imgur.com/AcNYOoe.png)
 
 The hardware consists of an operational amplifier circuit which is used to amplify and offset the signal from the Bluetooth audio receiver so that the Arduino Pro Mini can read it.
 
