@@ -15,7 +15,7 @@ The major breakthrough in this working is that we are using the google voice pac
 * The Quarter turn Garmin mount that we used for the mounting system has two components a plate and a mount.
 * The plate rotates on the mount, after a quarter turn the plate locks on to the mount. It is one of the most efficient and easy to use mounting mechanism.
 ![](https://i.imgur.com/gxeJAN3.png)
-![mount]
+![](https://imgur.com/bSbqIrf)
 **Features**
 A turn by turn navigation device which syncs with Google Maps and runs without any external app.
 Visible in the dark as well as in daylight.
