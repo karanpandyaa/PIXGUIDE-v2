@@ -61,7 +61,7 @@ There is a 3.7 to 5V boost converter circuit used to power the pro mini, op-amp,
 
 
 
-**Our Code**:
+**Our Code**: (Full code in file code.ino in this repo)
 
 The code is written in Arduino. We have used SPI and MaxMatrix library. Arduino reads the values from the Bluetooth receiver and displays the animations in the matrix. Our code uses the pulseIn function of Arduino which reads a pulse (either HIGH or LOW) on a pin. For example, if the value is HIGH, pulseIn() waits for the pin to go from LOW to HIGH, starts timing, then waits for the pin to go LOW and stops timing. 
 
