@@ -26,7 +26,7 @@ Compact, portable, and easy to handle device which works on 500 mAh 3.7 V Li-ion
 
 **Animation**:
 These are few examples of the animations that we made for various commands on LED 8x8 Matrix.
-![]https://imgur.com/a/iCqDcLx.png)
+![](https://imgur.com/a/iCqDcLx.png)
 
 
 **Hardware**:
