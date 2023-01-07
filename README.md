@@ -14,7 +14,7 @@ The major breakthrough in this working is that we are using the google voice pac
 * The hood is sliding using a rolling pair behaving like a sliding pair. To lock the hood at the top position, we slide a small rectangular piece at the lower end of the hood into a small hole of similar dimensions made in the upper end of the body.
 * The Quarter turn Garmin mount that we used for the mounting system has two components a plate and a mount.
 * The plate rotates on the mount, after a quarter turn the plate locks on to the mount. It is one of the most efficient and easy to use mounting mechanism.
-![](https://i.imgur.com/gxeJAN3.png)
+![](https://imgur.com/A4gLW8v.png)
 ![](https://imgur.com/goZcDDS.png)
 
 
